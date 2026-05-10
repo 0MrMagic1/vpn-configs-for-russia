@@ -1,7 +1,7 @@
 # profile-title: 🧅 TOR BRIDGES 🧅 Webtunnel
 # profile-update-interval: 6
-# Date/Time: 2026-05-10 / 15:21 (Moscow)
-# Количество: 19
+# Date/Time: 2026-05-10 / 19:22 (Moscow)
+# Количество: 20
 # For more info, VPN configs and TOR bridges - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # WEBTUNNEL TOR BRIDGES:
@@ -25,3 +25,4 @@ webtunnel [2001:db8:f3f8:1a33:dba0:17f6:35ce:24f3]:443 963668851C177DC162895A33F
 webtunnel [2001:db8:f3f8:1a33:dba0:17f6:35ce:24f3]:443 963668851C177DC162895A33F1473E32E1E4BE56 url=https://pod05.oneclickhost.eu/K5Fsvkz3SaWjVPm4i0vn5gIs ver=0.0.2
 webtunnel [2001:db8:f3f8:1a33:dba0:17f6:35ce:24f3]:443 963668851C177DC162895A33F1473E32E1E4BE56 url=https://pod05.oneclickhost.eu/K5Fsvkz3SaWjVPm4i0vn5gIs ver=0.0.3
 webtunnel [2001:db8:f3f8:1a33:dba0:17f6:35ce:24f3]:443 963668851C177DC162895A33F1473E32E1E4BE56 url=https://pod05.oneclickhost.eu/K5Fsvkz3SaWjVPm4i0vn5gIs ver=0.0.4
+webtunnel [2001:db8:f438:b91d:7d4b:29c7:dfc5:d8f6]:443 3CF4E31CE59A45EC8B03DC844D068E77EE618EEA url=https://yandex.arkadag.org/hT9GykZMv0GOWiVKIbDfOOWf ver=0.0.3
